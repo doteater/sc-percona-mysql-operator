@@ -1,0 +1,1 @@
+# sc-percona-mysql-operator
