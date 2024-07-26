@@ -1,7 +1,7 @@
 apiVersion: pxc.percona.com/v1
 kind: PerconaXtraDBCluster
 metadata:
-  name: zabbix-db
+  name: zabbix
   finalizers:
     - delete-pxc-pods-in-order
 #    - delete-ssl
